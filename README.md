@@ -25,7 +25,7 @@ This web application allows users to manage a list of students. Users can view t
 
 ## Installation
 
-1. Clone the repository: `git clone [<repository-url>](https://github.com/pintu544/Student-List)`
+1. Clone the repository: `git clone (https://github.com/pintu544/Student-List)`
 2. Navigate to the project directory: `cd student-list`
 3. Install dependencies: `npm install`
 
