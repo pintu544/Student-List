@@ -39,7 +39,7 @@ This web application allows users to manage a list of students. Users can view t
 ![Student List](https://www.linkpicture.com/q/localhost_3000_crud-app.png)
 *Screenshot of the Student List page*
 
-![Add Student Modal]((https://www.linkpicture.com/q/localhost_3000_crud-app.png(1)))
+![Add Student Modal](https://www.linkpicture.com/q/localhost_3000_crud-app-1_1.png)
 *Screenshot of the Add Student Modal*
 
 ## Contributing
