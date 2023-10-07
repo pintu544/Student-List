@@ -1,8 +1,8 @@
 {
-  "name": "crud-app",
+  "name": "student-list",
   "version": "3.3.0",
   "private": true,
-  "homepage": "https://pintu544.github.io/crud-app/",
+  "homepage": "https://pintu544.github.io/Student-List/",
   "author": {
     "name": "Pintu",
     "url": "https://pintu544.github.io"
