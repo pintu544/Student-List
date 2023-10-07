@@ -1,10 +1,4 @@
-Sure, here is an example of a `readme.md` documentation for the given requirements:
-
----
-
 # Student Management System
-
-## Overview
 
 This web application allows users to manage a list of students. Users can view the list of added students, search for specific students, and add new students through a modal form.
 
@@ -31,8 +25,8 @@ This web application allows users to manage a list of students. Users can view t
 
 ## Installation
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd student-management-system`
+1. Clone the repository: `git clone [<repository-url>](https://github.com/pintu544/Student-List)`
+2. Navigate to the project directory: `cd student-list`
 3. Install dependencies: `npm install`
 
 ## Usage
@@ -42,20 +36,14 @@ This web application allows users to manage a list of students. Users can view t
 
 ## Screenshots
 
-![Student List](/path/to/student-list-screenshot.png)
+![Student List]([![image](https://www.linkpicture.com/q/localhost_3000_crud-app-1.png)](https://www.linkpicture.com/view.php?img=LPic6521152b237d21680800840))
 *Screenshot of the Student List page*
 
-![Add Student Modal](/path/to/add-student-modal-screenshot.png)
+![Add Student Modal]([![image](https://www.linkpicture.com/q/localhost_3000_crud-app.png)](https://www.linkpicture.com/view.php?img=LPic652115563690c998651022))
 *Screenshot of the Add Student Modal*
 
 ## Contributing
 
 Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback and suggestions are welcome!
 
-## License
 
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-Please replace the placeholders such as `[Library for modal and UI components]`, `[Library for debounce functionality]`, and `[License Name]` with the actual names of the libraries you use and the appropriate license for your project. Also, include screenshots by replacing `/path/to/student-list-screenshot.png` and `/path/to/add-student-modal-screenshot.png` with the actual paths to your screenshots.
